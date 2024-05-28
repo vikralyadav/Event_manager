@@ -1,0 +1,1 @@
+ C:\\Users\\Bittu\\Desktop\\ngmfvn\\Event_Management_App\\.dart_tool\\flutter_build\\2f1e62b7784fd1d56a197674a5294939\\native_assets.yaml: 
